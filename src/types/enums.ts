@@ -1,0 +1,4 @@
+export enum BUSINESS_TYPES {
+  PERSONAL = 'PERSONAL',
+  FRANCHISE = 'FRANCHISE',
+}
